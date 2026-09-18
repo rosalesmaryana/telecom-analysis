@@ -14,5 +14,13 @@ Analizar el comportamiento de los usuarios de la compañía de telecomunicacione
 4. *Segmentación de clientes:* Creación de categorías basadas en nivel de uso (grupo_uso) y rangos de edad (grupo_edad).
 5. *Insights ejecutivos:* Traducción de los hallazgos técnicos en recomendaciones estratégicas para los stakeholders.
 
-## 🚀 Cómo ejecutar el notebook
-Puedes abrir y ejecutar el proyecto directamente en *Google Colab* haciendo clic en el archivo .ipynb dentro de este repositorio o clonando el proyecto en tu entorno local de Jupyter Notebooks.
+## 🚀 Cómo abrir el notebook en Google Colab
+
+Haz clic en el siguiente botón:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MimIhaxj24p-vQmO-xybVSKsyASSDfQc?usp=sharing)
+
+O:
+
+1. Abre el archivo `.ipynb` en GitHub
+2. Haz clic en **Open in Colab**
